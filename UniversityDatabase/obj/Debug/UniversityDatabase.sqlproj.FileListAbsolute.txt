@@ -1,0 +1,9 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\UniversityDatabase\UniversityDatabase\bin\Debug\UniversityDatabase.dacpac
+c:\users\wecancodeit\documents\visual studio 2015\Projects\UniversityDatabase\UniversityDatabase\bin\Debug\UniversityDatabase.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\UniversityDatabase\UniversityDatabase\bin\Debug\UniversityDatabase.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\UniversityDatabase\UniversityDatabase\obj\Debug\Model.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\UniversityDatabase\UniversityDatabase\obj\Debug\refactor.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\UniversityDatabase\UniversityDatabase\obj\Debug\postdeploy.sql
+c:\users\wecancodeit\documents\visual studio 2015\Projects\UniversityDatabase\UniversityDatabase\obj\Debug\predeploy.sql
+c:\users\wecancodeit\documents\visual studio 2015\Projects\UniversityDatabase\UniversityDatabase\obj\Debug\UniversityDatabase.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\UniversityDatabase\UniversityDatabase\obj\Debug\UniversityDatabase.pdb
